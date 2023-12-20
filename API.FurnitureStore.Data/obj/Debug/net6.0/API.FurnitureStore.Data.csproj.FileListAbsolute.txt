@@ -1,0 +1,17 @@
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.AssemblyReference.cache
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.AssemblyInfoInputs.cache
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.AssemblyInfo.cs
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.CoreCompileInputs.cache
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.deps.json
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.runtimeconfig.json
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.dll
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.Data.pdb
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.shared.dll
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\bin\Debug\net6.0\API.FurnitureStore.shared.pdb
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.csproj.CopyComplete
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.dll
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\refint\API.FurnitureStore.Data.dll
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.pdb
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\API.FurnitureStore.Data.genruntimeconfig.cache
+C:\EstudioC#\API.FurnitureStore\API.FurnitureStore.Data\obj\Debug\net6.0\ref\API.FurnitureStore.Data.dll
